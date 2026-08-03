@@ -1,0 +1,6 @@
+Le protocole RDP (Remote Desktop Protocol) est une technologie de communication 
+sécurisée créée par Microsoft qui permet de contrôler un ordinateur à distance
+avec une interface graphique. Il fonctionne sur le port TCP/UDP 3389 et s'appuie sur une structure 
+client-serveur.
+
+utilise par défaut le port 3389 (en TCP et en UDP)
